@@ -1,0 +1,33 @@
+.navbar {
+  background: #0757b8;
+  color: white;
+  padding: 18px 0;
+  box-shadow: 0 3px 15px rgba(0, 55, 120, 0.18);
+}
+
+.navbar-container {
+  width: min(1180px, 92%);
+  margin: auto;
+
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+
+  font-size: 23px;
+  font-weight: 800;
+}
+
+.brand-icon {
+  font-size: 27px;
+}
+
+.brand-subtitle {
+  font-size: 14px;
+  opacity: 0.85;
+}

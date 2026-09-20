@@ -1,0 +1,1330 @@
+[
+  {
+    "season": "2007/08",
+    "team": "Chennai Super Kings",
+    "runs": 2520,
+    "balls": 1789,
+    "fours": 244,
+    "sixes": 86
+  },
+  {
+    "season": "2007/08",
+    "team": "Deccan Chargers",
+    "runs": 2229,
+    "balls": 1613,
+    "fours": 205,
+    "sixes": 92
+  },
+  {
+    "season": "2007/08",
+    "team": "Delhi Daredevils",
+    "runs": 2118,
+    "balls": 1495,
+    "fours": 218,
+    "sixes": 54
+  },
+  {
+    "season": "2007/08",
+    "team": "Kings XI Punjab",
+    "runs": 2464,
+    "balls": 1678,
+    "fours": 231,
+    "sixes": 95
+  },
+  {
+    "season": "2007/08",
+    "team": "Kolkata Knight Riders",
+    "runs": 1942,
+    "balls": 1495,
+    "fours": 162,
+    "sixes": 76
+  },
+  {
+    "season": "2007/08",
+    "team": "Mumbai Indians",
+    "runs": 2080,
+    "balls": 1495,
+    "fours": 197,
+    "sixes": 76
+  },
+  {
+    "season": "2007/08",
+    "team": "Rajasthan Royals",
+    "runs": 2601,
+    "balls": 1784,
+    "fours": 259,
+    "sixes": 85
+  },
+  {
+    "season": "2007/08",
+    "team": "Royal Challengers Bangalore",
+    "runs": 1983,
+    "balls": 1601,
+    "fours": 187,
+    "sixes": 59
+  },
+  {
+    "season": "2009",
+    "team": "Chennai Super Kings",
+    "runs": 2231,
+    "balls": 1651,
+    "fours": 192,
+    "sixes": 73
+  },
+  {
+    "season": "2009",
+    "team": "Deccan Chargers",
+    "runs": 2408,
+    "balls": 1828,
+    "fours": 173,
+    "sixes": 99
+  },
+  {
+    "season": "2009",
+    "team": "Delhi Daredevils",
+    "runs": 2131,
+    "balls": 1652,
+    "fours": 188,
+    "sixes": 51
+  },
+  {
+    "season": "2009",
+    "team": "Kings XI Punjab",
+    "runs": 1928,
+    "balls": 1608,
+    "fours": 140,
+    "sixes": 61
+  },
+  {
+    "season": "2009",
+    "team": "Kolkata Knight Riders",
+    "runs": 1772,
+    "balls": 1469,
+    "fours": 143,
+    "sixes": 56
+  },
+  {
+    "season": "2009",
+    "team": "Mumbai Indians",
+    "runs": 1897,
+    "balls": 1537,
+    "fours": 145,
+    "sixes": 54
+  },
+  {
+    "season": "2009",
+    "team": "Rajasthan Royals",
+    "runs": 1706,
+    "balls": 1489,
+    "fours": 148,
+    "sixes": 47
+  },
+  {
+    "season": "2009",
+    "team": "Royal Challengers Bangalore",
+    "runs": 2280,
+    "balls": 1861,
+    "fours": 192,
+    "sixes": 67
+  },
+  {
+    "season": "2009/10",
+    "team": "Chennai Super Kings",
+    "runs": 2604,
+    "balls": 1873,
+    "fours": 212,
+    "sixes": 98
+  },
+  {
+    "season": "2009/10",
+    "team": "Deccan Chargers",
+    "runs": 2374,
+    "balls": 1868,
+    "fours": 197,
+    "sixes": 84
+  },
+  {
+    "season": "2009/10",
+    "team": "Delhi Daredevils",
+    "runs": 2155,
+    "balls": 1631,
+    "fours": 190,
+    "sixes": 58
+  },
+  {
+    "season": "2009/10",
+    "team": "Kings XI Punjab",
+    "runs": 2288,
+    "balls": 1657,
+    "fours": 234,
+    "sixes": 58
+  },
+  {
+    "season": "2009/10",
+    "team": "Kolkata Knight Riders",
+    "runs": 2144,
+    "balls": 1634,
+    "fours": 199,
+    "sixes": 63
+  },
+  {
+    "season": "2009/10",
+    "team": "Mumbai Indians",
+    "runs": 2738,
+    "balls": 1902,
+    "fours": 261,
+    "sixes": 75
+  },
+  {
+    "season": "2009/10",
+    "team": "Rajasthan Royals",
+    "runs": 2179,
+    "balls": 1608,
+    "fours": 202,
+    "sixes": 74
+  },
+  {
+    "season": "2009/10",
+    "team": "Royal Challengers Bangalore",
+    "runs": 2401,
+    "balls": 1765,
+    "fours": 214,
+    "sixes": 77
+  },
+  {
+    "season": "2011",
+    "team": "Chennai Super Kings",
+    "runs": 2560,
+    "balls": 1889,
+    "fours": 204,
+    "sixes": 91
+  },
+  {
+    "season": "2011",
+    "team": "Deccan Chargers",
+    "runs": 2140,
+    "balls": 1676,
+    "fours": 194,
+    "sixes": 48
+  },
+  {
+    "season": "2011",
+    "team": "Delhi Daredevils",
+    "runs": 2087,
+    "balls": 1596,
+    "fours": 185,
+    "sixes": 75
+  },
+  {
+    "season": "2011",
+    "team": "Kings XI Punjab",
+    "runs": 2224,
+    "balls": 1647,
+    "fours": 219,
+    "sixes": 74
+  },
+  {
+    "season": "2011",
+    "team": "Kochi Tuskers Kerala",
+    "runs": 1901,
+    "balls": 1510,
+    "fours": 170,
+    "sixes": 53
+  },
+  {
+    "season": "2011",
+    "team": "Kolkata Knight Riders",
+    "runs": 2023,
+    "balls": 1616,
+    "fours": 191,
+    "sixes": 45
+  },
+  {
+    "season": "2011",
+    "team": "Mumbai Indians",
+    "runs": 2288,
+    "balls": 1845,
+    "fours": 221,
+    "sixes": 57
+  },
+  {
+    "season": "2011",
+    "team": "Pune Warriors",
+    "runs": 1775,
+    "balls": 1469,
+    "fours": 154,
+    "sixes": 60
+  },
+  {
+    "season": "2011",
+    "team": "Rajasthan Royals",
+    "runs": 1687,
+    "balls": 1414,
+    "fours": 153,
+    "sixes": 42
+  },
+  {
+    "season": "2011",
+    "team": "Royal Challengers Bangalore",
+    "runs": 2469,
+    "balls": 1763,
+    "fours": 225,
+    "sixes": 94
+  },
+  {
+    "season": "2012",
+    "team": "Chennai Super Kings",
+    "runs": 2831,
+    "balls": 2120,
+    "fours": 223,
+    "sixes": 102
+  },
+  {
+    "season": "2012",
+    "team": "Deccan Chargers",
+    "runs": 2312,
+    "balls": 1767,
+    "fours": 188,
+    "sixes": 77
+  },
+  {
+    "season": "2012",
+    "team": "Delhi Daredevils",
+    "runs": 2645,
+    "balls": 1924,
+    "fours": 232,
+    "sixes": 97
+  },
+  {
+    "season": "2012",
+    "team": "Kings XI Punjab",
+    "runs": 2390,
+    "balls": 1881,
+    "fours": 226,
+    "sixes": 61
+  },
+  {
+    "season": "2012",
+    "team": "Kolkata Knight Riders",
+    "runs": 2504,
+    "balls": 1949,
+    "fours": 210,
+    "sixes": 69
+  },
+  {
+    "season": "2012",
+    "team": "Mumbai Indians",
+    "runs": 2462,
+    "balls": 1986,
+    "fours": 219,
+    "sixes": 80
+  },
+  {
+    "season": "2012",
+    "team": "Pune Warriors",
+    "runs": 2321,
+    "balls": 1910,
+    "fours": 181,
+    "sixes": 60
+  },
+  {
+    "season": "2012",
+    "team": "Rajasthan Royals",
+    "runs": 2516,
+    "balls": 1894,
+    "fours": 246,
+    "sixes": 69
+  },
+  {
+    "season": "2012",
+    "team": "Royal Challengers Bangalore",
+    "runs": 2472,
+    "balls": 1777,
+    "fours": 186,
+    "sixes": 118
+  },
+  {
+    "season": "2013",
+    "team": "Chennai Super Kings",
+    "runs": 2778,
+    "balls": 2035,
+    "fours": 241,
+    "sixes": 84
+  },
+  {
+    "season": "2013",
+    "team": "Delhi Daredevils",
+    "runs": 2245,
+    "balls": 1875,
+    "fours": 211,
+    "sixes": 52
+  },
+  {
+    "season": "2013",
+    "team": "Kings XI Punjab",
+    "runs": 2428,
+    "balls": 1824,
+    "fours": 244,
+    "sixes": 65
+  },
+  {
+    "season": "2013",
+    "team": "Kolkata Knight Riders",
+    "runs": 2290,
+    "balls": 1866,
+    "fours": 222,
+    "sixes": 57
+  },
+  {
+    "season": "2013",
+    "team": "Mumbai Indians",
+    "runs": 2975,
+    "balls": 2245,
+    "fours": 253,
+    "sixes": 117
+  },
+  {
+    "season": "2013",
+    "team": "Pune Warriors",
+    "runs": 2262,
+    "balls": 1896,
+    "fours": 190,
+    "sixes": 76
+  },
+  {
+    "season": "2013",
+    "team": "Rajasthan Royals",
+    "runs": 2705,
+    "balls": 2099,
+    "fours": 267,
+    "sixes": 70
+  },
+  {
+    "season": "2013",
+    "team": "Royal Challengers Bangalore",
+    "runs": 2601,
+    "balls": 1818,
+    "fours": 230,
+    "sixes": 106
+  },
+  {
+    "season": "2013",
+    "team": "Sunrisers Hyderabad",
+    "runs": 2318,
+    "balls": 1979,
+    "fours": 196,
+    "sixes": 54
+  },
+  {
+    "season": "2014",
+    "team": "Chennai Super Kings",
+    "runs": 2650,
+    "balls": 1864,
+    "fours": 205,
+    "sixes": 112
+  },
+  {
+    "season": "2014",
+    "team": "Delhi Daredevils",
+    "runs": 2081,
+    "balls": 1633,
+    "fours": 177,
+    "sixes": 63
+  },
+  {
+    "season": "2014",
+    "team": "Kings XI Punjab",
+    "runs": 2987,
+    "balls": 1971,
+    "fours": 262,
+    "sixes": 127
+  },
+  {
+    "season": "2014",
+    "team": "Kolkata Knight Riders",
+    "runs": 2499,
+    "balls": 1817,
+    "fours": 223,
+    "sixes": 77
+  },
+  {
+    "season": "2014",
+    "team": "Mumbai Indians",
+    "runs": 2353,
+    "balls": 1746,
+    "fours": 197,
+    "sixes": 86
+  },
+  {
+    "season": "2014",
+    "team": "Rajasthan Royals",
+    "runs": 2166,
+    "balls": 1623,
+    "fours": 167,
+    "sixes": 86
+  },
+  {
+    "season": "2014",
+    "team": "Royal Challengers Bangalore",
+    "runs": 2093,
+    "balls": 1613,
+    "fours": 165,
+    "sixes": 92
+  },
+  {
+    "season": "2014",
+    "team": "Sunrisers Hyderabad",
+    "runs": 2102,
+    "balls": 1578,
+    "fours": 167,
+    "sixes": 72
+  },
+  {
+    "season": "2015",
+    "team": "Chennai Super Kings",
+    "runs": 2725,
+    "balls": 1994,
+    "fours": 249,
+    "sixes": 96
+  },
+  {
+    "season": "2015",
+    "team": "Delhi Daredevils",
+    "runs": 2168,
+    "balls": 1612,
+    "fours": 188,
+    "sixes": 84
+  },
+  {
+    "season": "2015",
+    "team": "Kings XI Punjab",
+    "runs": 2018,
+    "balls": 1588,
+    "fours": 147,
+    "sixes": 79
+  },
+  {
+    "season": "2015",
+    "team": "Kolkata Knight Riders",
+    "runs": 2044,
+    "balls": 1417,
+    "fours": 206,
+    "sixes": 64
+  },
+  {
+    "season": "2015",
+    "team": "Mumbai Indians",
+    "runs": 2734,
+    "balls": 1876,
+    "fours": 242,
+    "sixes": 120
+  },
+  {
+    "season": "2015",
+    "team": "Rajasthan Royals",
+    "runs": 2143,
+    "balls": 1542,
+    "fours": 188,
+    "sixes": 65
+  },
+  {
+    "season": "2015",
+    "team": "Royal Challengers Bangalore",
+    "runs": 2311,
+    "balls": 1511,
+    "fours": 206,
+    "sixes": 105
+  },
+  {
+    "season": "2015",
+    "team": "Sunrisers Hyderabad",
+    "runs": 2210,
+    "balls": 1610,
+    "fours": 185,
+    "sixes": 79
+  },
+  {
+    "season": "2016",
+    "team": "Delhi Daredevils",
+    "runs": 2104,
+    "balls": 1590,
+    "fours": 179,
+    "sixes": 65
+  },
+  {
+    "season": "2016",
+    "team": "Gujarat Lions",
+    "runs": 2450,
+    "balls": 1819,
+    "fours": 242,
+    "sixes": 63
+  },
+  {
+    "season": "2016",
+    "team": "Kings XI Punjab",
+    "runs": 2134,
+    "balls": 1617,
+    "fours": 191,
+    "sixes": 54
+  },
+  {
+    "season": "2016",
+    "team": "Kolkata Knight Riders",
+    "runs": 2263,
+    "balls": 1631,
+    "fours": 194,
+    "sixes": 65
+  },
+  {
+    "season": "2016",
+    "team": "Mumbai Indians",
+    "runs": 2194,
+    "balls": 1613,
+    "fours": 185,
+    "sixes": 93
+  },
+  {
+    "season": "2016",
+    "team": "Rising Pune Supergiants",
+    "runs": 2063,
+    "balls": 1521,
+    "fours": 171,
+    "sixes": 68
+  },
+  {
+    "season": "2016",
+    "team": "Royal Challengers Bangalore",
+    "runs": 2981,
+    "balls": 1858,
+    "fours": 240,
+    "sixes": 142
+  },
+  {
+    "season": "2016",
+    "team": "Sunrisers Hyderabad",
+    "runs": 2673,
+    "balls": 1969,
+    "fours": 231,
+    "sixes": 89
+  },
+  {
+    "season": "2017",
+    "team": "Delhi Daredevils",
+    "runs": 2219,
+    "balls": 1603,
+    "fours": 202,
+    "sixes": 87
+  },
+  {
+    "season": "2017",
+    "team": "Gujarat Lions",
+    "runs": 2412,
+    "balls": 1620,
+    "fours": 218,
+    "sixes": 92
+  },
+  {
+    "season": "2017",
+    "team": "Kings XI Punjab",
+    "runs": 2207,
+    "balls": 1541,
+    "fours": 189,
+    "sixes": 88
+  },
+  {
+    "season": "2017",
+    "team": "Kolkata Knight Riders",
+    "runs": 2484,
+    "balls": 1707,
+    "fours": 228,
+    "sixes": 87
+  },
+  {
+    "season": "2017",
+    "team": "Mumbai Indians",
+    "runs": 2800,
+    "balls": 1965,
+    "fours": 225,
+    "sixes": 118
+  },
+  {
+    "season": "2017",
+    "team": "Rising Pune Supergiant",
+    "runs": 2470,
+    "balls": 1843,
+    "fours": 197,
+    "sixes": 89
+  },
+  {
+    "season": "2017",
+    "team": "Royal Challengers Bangalore",
+    "runs": 1845,
+    "balls": 1490,
+    "fours": 133,
+    "sixes": 75
+  },
+  {
+    "season": "2017",
+    "team": "Sunrisers Hyderabad",
+    "runs": 2349,
+    "balls": 1632,
+    "fours": 220,
+    "sixes": 70
+  },
+  {
+    "season": "2018",
+    "team": "Chennai Super Kings",
+    "runs": 2809,
+    "balls": 1879,
+    "fours": 211,
+    "sixes": 145
+  },
+  {
+    "season": "2018",
+    "team": "Delhi Daredevils",
+    "runs": 2343,
+    "balls": 1545,
+    "fours": 186,
+    "sixes": 115
+  },
+  {
+    "season": "2018",
+    "team": "Kings XI Punjab",
+    "runs": 2210,
+    "balls": 1573,
+    "fours": 170,
+    "sixes": 104
+  },
+  {
+    "season": "2018",
+    "team": "Kolkata Knight Riders",
+    "runs": 2759,
+    "balls": 1862,
+    "fours": 253,
+    "sixes": 130
+  },
+  {
+    "season": "2018",
+    "team": "Mumbai Indians",
+    "runs": 2380,
+    "balls": 1662,
+    "fours": 204,
+    "sixes": 107
+  },
+  {
+    "season": "2018",
+    "team": "Rajasthan Royals",
+    "runs": 2357,
+    "balls": 1709,
+    "fours": 195,
+    "sixes": 77
+  },
+  {
+    "season": "2018",
+    "team": "Royal Challengers Bangalore",
+    "runs": 2322,
+    "balls": 1584,
+    "fours": 193,
+    "sixes": 106
+  },
+  {
+    "season": "2018",
+    "team": "Sunrisers Hyderabad",
+    "runs": 2721,
+    "balls": 1994,
+    "fours": 240,
+    "sixes": 88
+  },
+  {
+    "season": "2019",
+    "team": "Chennai Super Kings",
+    "runs": 2473,
+    "balls": 1985,
+    "fours": 205,
+    "sixes": 89
+  },
+  {
+    "season": "2019",
+    "team": "Delhi Capitals",
+    "runs": 2529,
+    "balls": 1856,
+    "fours": 237,
+    "sixes": 87
+  },
+  {
+    "season": "2019",
+    "team": "Kings XI Punjab",
+    "runs": 2429,
+    "balls": 1659,
+    "fours": 197,
+    "sixes": 110
+  },
+  {
+    "season": "2019",
+    "team": "Kolkata Knight Riders",
+    "runs": 2473,
+    "balls": 1630,
+    "fours": 196,
+    "sixes": 143
+  },
+  {
+    "season": "2019",
+    "team": "Mumbai Indians",
+    "runs": 2670,
+    "balls": 1881,
+    "fours": 230,
+    "sixes": 116
+  },
+  {
+    "season": "2019",
+    "team": "Rajasthan Royals",
+    "runs": 2194,
+    "balls": 1562,
+    "fours": 206,
+    "sixes": 66
+  },
+  {
+    "season": "2019",
+    "team": "Royal Challengers Bangalore",
+    "runs": 2208,
+    "balls": 1564,
+    "fours": 186,
+    "sixes": 93
+  },
+  {
+    "season": "2019",
+    "team": "Sunrisers Hyderabad",
+    "runs": 2458,
+    "balls": 1719,
+    "fours": 198,
+    "sixes": 82
+  },
+  {
+    "season": "2020/21",
+    "team": "Chennai Super Kings",
+    "runs": 2191,
+    "balls": 1647,
+    "fours": 188,
+    "sixes": 75
+  },
+  {
+    "season": "2020/21",
+    "team": "Delhi Capitals",
+    "runs": 2780,
+    "balls": 2029,
+    "fours": 237,
+    "sixes": 89
+  },
+  {
+    "season": "2020/21",
+    "team": "Kings XI Punjab",
+    "runs": 2357,
+    "balls": 1661,
+    "fours": 181,
+    "sixes": 99
+  },
+  {
+    "season": "2020/21",
+    "team": "Kolkata Knight Riders",
+    "runs": 2222,
+    "balls": 1672,
+    "fours": 197,
+    "sixes": 86
+  },
+  {
+    "season": "2020/21",
+    "team": "Mumbai Indians",
+    "runs": 2758,
+    "balls": 1824,
+    "fours": 224,
+    "sixes": 137
+  },
+  {
+    "season": "2020/21",
+    "team": "Rajasthan Royals",
+    "runs": 2288,
+    "balls": 1623,
+    "fours": 171,
+    "sixes": 105
+  },
+  {
+    "season": "2020/21",
+    "team": "Royal Challengers Bangalore",
+    "runs": 2289,
+    "balls": 1742,
+    "fours": 178,
+    "sixes": 66
+  },
+  {
+    "season": "2020/21",
+    "team": "Sunrisers Hyderabad",
+    "runs": 2531,
+    "balls": 1855,
+    "fours": 213,
+    "sixes": 79
+  },
+  {
+    "season": "2021",
+    "team": "Chennai Super Kings",
+    "runs": 2733,
+    "balls": 1870,
+    "fours": 232,
+    "sixes": 115
+  },
+  {
+    "season": "2021",
+    "team": "Delhi Capitals",
+    "runs": 2495,
+    "balls": 1848,
+    "fours": 234,
+    "sixes": 66
+  },
+  {
+    "season": "2021",
+    "team": "Kolkata Knight Riders",
+    "runs": 2559,
+    "balls": 1911,
+    "fours": 220,
+    "sixes": 98
+  },
+  {
+    "season": "2021",
+    "team": "Mumbai Indians",
+    "runs": 2117,
+    "balls": 1584,
+    "fours": 181,
+    "sixes": 76
+  },
+  {
+    "season": "2021",
+    "team": "Punjab Kings",
+    "runs": 2150,
+    "balls": 1619,
+    "fours": 155,
+    "sixes": 93
+  },
+  {
+    "season": "2021",
+    "team": "Rajasthan Royals",
+    "runs": 2196,
+    "balls": 1633,
+    "fours": 187,
+    "sixes": 90
+  },
+  {
+    "season": "2021",
+    "team": "Royal Challengers Bangalore",
+    "runs": 2303,
+    "balls": 1756,
+    "fours": 190,
+    "sixes": 79
+  },
+  {
+    "season": "2021",
+    "team": "Sunrisers Hyderabad",
+    "runs": 2084,
+    "balls": 1667,
+    "fours": 152,
+    "sixes": 70
+  },
+  {
+    "season": "2022",
+    "team": "Chennai Super Kings",
+    "runs": 2288,
+    "balls": 1644,
+    "fours": 184,
+    "sixes": 103
+  },
+  {
+    "season": "2022",
+    "team": "Delhi Capitals",
+    "runs": 2341,
+    "balls": 1582,
+    "fours": 205,
+    "sixes": 106
+  },
+  {
+    "season": "2022",
+    "team": "Gujarat Titans",
+    "runs": 2663,
+    "balls": 1895,
+    "fours": 250,
+    "sixes": 79
+  },
+  {
+    "season": "2022",
+    "team": "Kolkata Knight Riders",
+    "runs": 2223,
+    "balls": 1565,
+    "fours": 177,
+    "sixes": 113
+  },
+  {
+    "season": "2022",
+    "team": "Lucknow Super Giants",
+    "runs": 2548,
+    "balls": 1758,
+    "fours": 188,
+    "sixes": 115
+  },
+  {
+    "season": "2022",
+    "team": "Mumbai Indians",
+    "runs": 2217,
+    "balls": 1625,
+    "fours": 173,
+    "sixes": 100
+  },
+  {
+    "season": "2022",
+    "team": "Punjab Kings",
+    "runs": 2343,
+    "balls": 1611,
+    "fours": 200,
+    "sixes": 110
+  },
+  {
+    "season": "2022",
+    "team": "Rajasthan Royals",
+    "runs": 2943,
+    "balls": 2025,
+    "fours": 251,
+    "sixes": 137
+  },
+  {
+    "season": "2022",
+    "team": "Royal Challengers Bangalore",
+    "runs": 2632,
+    "balls": 1868,
+    "fours": 222,
+    "sixes": 102
+  },
+  {
+    "season": "2022",
+    "team": "Sunrisers Hyderabad",
+    "runs": 2197,
+    "balls": 1565,
+    "fours": 170,
+    "sixes": 97
+  },
+  {
+    "season": "2023",
+    "team": "Chennai Super Kings",
+    "runs": 2712,
+    "balls": 1737,
+    "fours": 197,
+    "sixes": 133
+  },
+  {
+    "season": "2023",
+    "team": "Delhi Capitals",
+    "runs": 2182,
+    "balls": 1654,
+    "fours": 210,
+    "sixes": 67
+  },
+  {
+    "season": "2023",
+    "team": "Gujarat Titans",
+    "runs": 3054,
+    "balls": 1969,
+    "fours": 258,
+    "sixes": 124
+  },
+  {
+    "season": "2023",
+    "team": "Kolkata Knight Riders",
+    "runs": 2463,
+    "balls": 1647,
+    "fours": 202,
+    "sixes": 125
+  },
+  {
+    "season": "2023",
+    "team": "Lucknow Super Giants",
+    "runs": 2479,
+    "balls": 1746,
+    "fours": 183,
+    "sixes": 115
+  },
+  {
+    "season": "2023",
+    "team": "Mumbai Indians",
+    "runs": 2945,
+    "balls": 1853,
+    "fours": 265,
+    "sixes": 140
+  },
+  {
+    "season": "2023",
+    "team": "Punjab Kings",
+    "runs": 2556,
+    "balls": 1666,
+    "fours": 227,
+    "sixes": 117
+  },
+  {
+    "season": "2023",
+    "team": "Rajasthan Royals",
+    "runs": 2419,
+    "balls": 1563,
+    "fours": 215,
+    "sixes": 112
+  },
+  {
+    "season": "2023",
+    "team": "Royal Challengers Bangalore",
+    "runs": 2502,
+    "balls": 1640,
+    "fours": 202,
+    "sixes": 107
+  },
+  {
+    "season": "2023",
+    "team": "Sunrisers Hyderabad",
+    "runs": 2376,
+    "balls": 1662,
+    "fours": 216,
+    "sixes": 84
+  },
+  {
+    "season": "2024",
+    "team": "Chennai Super Kings",
+    "runs": 2524,
+    "balls": 1648,
+    "fours": 209,
+    "sixes": 107
+  },
+  {
+    "season": "2024",
+    "team": "Delhi Capitals",
+    "runs": 2573,
+    "balls": 1576,
+    "fours": 229,
+    "sixes": 135
+  },
+  {
+    "season": "2024",
+    "team": "Gujarat Titans",
+    "runs": 2040,
+    "balls": 1405,
+    "fours": 183,
+    "sixes": 68
+  },
+  {
+    "season": "2024",
+    "team": "Kolkata Knight Riders",
+    "runs": 2667,
+    "balls": 1494,
+    "fours": 238,
+    "sixes": 141
+  },
+  {
+    "season": "2024",
+    "team": "Lucknow Super Giants",
+    "runs": 2483,
+    "balls": 1644,
+    "fours": 206,
+    "sixes": 102
+  },
+  {
+    "season": "2024",
+    "team": "Mumbai Indians",
+    "runs": 2568,
+    "balls": 1606,
+    "fours": 215,
+    "sixes": 133
+  },
+  {
+    "season": "2024",
+    "team": "Punjab Kings",
+    "runs": 2487,
+    "balls": 1624,
+    "fours": 213,
+    "sixes": 120
+  },
+  {
+    "season": "2024",
+    "team": "Rajasthan Royals",
+    "runs": 2647,
+    "balls": 1747,
+    "fours": 236,
+    "sixes": 112
+  },
+  {
+    "season": "2024",
+    "team": "Royal Challengers Bengaluru",
+    "runs": 2930,
+    "balls": 1732,
+    "fours": 229,
+    "sixes": 165
+  },
+  {
+    "season": "2024",
+    "team": "Sunrisers Hyderabad",
+    "runs": 3052,
+    "balls": 1823,
+    "fours": 217,
+    "sixes": 178
+  },
+  {
+    "season": "2025",
+    "team": "Chennai Super Kings",
+    "runs": 2441,
+    "balls": 1665,
+    "fours": 199,
+    "sixes": 102
+  },
+  {
+    "season": "2025",
+    "team": "Delhi Capitals",
+    "runs": 2500,
+    "balls": 1612,
+    "fours": 221,
+    "sixes": 110
+  },
+  {
+    "season": "2025",
+    "team": "Gujarat Titans",
+    "runs": 2892,
+    "balls": 1742,
+    "fours": 256,
+    "sixes": 124
+  },
+  {
+    "season": "2025",
+    "team": "Kolkata Knight Riders",
+    "runs": 2002,
+    "balls": 1313,
+    "fours": 173,
+    "sixes": 101
+  },
+  {
+    "season": "2025",
+    "team": "Lucknow Super Giants",
+    "runs": 2732,
+    "balls": 1654,
+    "fours": 218,
+    "sixes": 152
+  },
+  {
+    "season": "2025",
+    "team": "Mumbai Indians",
+    "runs": 2912,
+    "balls": 1814,
+    "fours": 260,
+    "sixes": 143
+  },
+  {
+    "season": "2025",
+    "team": "Punjab Kings",
+    "runs": 3262,
+    "balls": 1953,
+    "fours": 267,
+    "sixes": 179
+  },
+  {
+    "season": "2025",
+    "team": "Rajasthan Royals",
+    "runs": 2614,
+    "balls": 1616,
+    "fours": 211,
+    "sixes": 146
+  },
+  {
+    "season": "2025",
+    "team": "Royal Challengers Bengaluru",
+    "runs": 2653,
+    "balls": 1642,
+    "fours": 239,
+    "sixes": 125
+  },
+  {
+    "season": "2025",
+    "team": "Sunrisers Hyderabad",
+    "runs": 2519,
+    "balls": 1505,
+    "fours": 219,
+    "sixes": 120
+  },
+  {
+    "season": "2026",
+    "team": "Chennai Super Kings",
+    "runs": 2530,
+    "balls": 1608,
+    "fours": 220,
+    "sixes": 124
+  },
+  {
+    "season": "2026",
+    "team": "Delhi Capitals",
+    "runs": 2559,
+    "balls": 1615,
+    "fours": 225,
+    "sixes": 117
+  },
+  {
+    "season": "2026",
+    "team": "Gujarat Titans",
+    "runs": 3094,
+    "balls": 1948,
+    "fours": 292,
+    "sixes": 124
+  },
+  {
+    "season": "2026",
+    "team": "Kolkata Knight Riders",
+    "runs": 2313,
+    "balls": 1498,
+    "fours": 192,
+    "sixes": 115
+  },
+  {
+    "season": "2026",
+    "team": "Lucknow Super Giants",
+    "runs": 2512,
+    "balls": 1636,
+    "fours": 209,
+    "sixes": 127
+  },
+  {
+    "season": "2026",
+    "team": "Mumbai Indians",
+    "runs": 2553,
+    "balls": 1606,
+    "fours": 204,
+    "sixes": 140
+  },
+  {
+    "season": "2026",
+    "team": "Punjab Kings",
+    "runs": 2711,
+    "balls": 1500,
+    "fours": 219,
+    "sixes": 163
+  },
+  {
+    "season": "2026",
+    "team": "Rajasthan Royals",
+    "runs": 3076,
+    "balls": 1771,
+    "fours": 257,
+    "sixes": 181
+  },
+  {
+    "season": "2026",
+    "team": "Royal Challengers Bengaluru",
+    "runs": 3057,
+    "balls": 1750,
+    "fours": 261,
+    "sixes": 164
+  },
+  {
+    "season": "2026",
+    "team": "Sunrisers Hyderabad",
+    "runs": 3050,
+    "balls": 1736,
+    "fours": 255,
+    "sixes": 171
+  }
+]
