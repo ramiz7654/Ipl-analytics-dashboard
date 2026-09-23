@@ -13,7 +13,12 @@ function AnswerModal({
       onClick={onClose}
     >
       <div
-        className="answer-modal"
+        className={`answer-modal ${
+          question.id === "season-winner" ||
+          question.id === "overall-most-titles"
+            ? `winner-${answer?.name?.toLowerCase().replace(/\s+/g, "-")}`
+            : ""
+        }`}
         onClick={(event) =>
           event.stopPropagation()
         }

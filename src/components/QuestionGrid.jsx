@@ -1,6 +1,6 @@
 import QuestionCard from "./QuestionCard";
 
-function QuestionGrid({ questions, onQuestionClick }) {
+function QuestionGrid({ questions, onQuestionClick, selectedSeason }) {
   if (!questions.length) {
     return (
       <div className="no-results">
@@ -18,6 +18,7 @@ function QuestionGrid({ questions, onQuestionClick }) {
           key={question.id}
           question={question}
           onClick={onQuestionClick}
+          selectedSeason={selectedSeason}
         />
       ))}
     </div>

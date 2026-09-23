@@ -1,6 +1,10 @@
 import { getSeasons } from "../services/api";
 
 function formatSeason(season) {
+  if (season === "2020/21") {
+    return "2020";
+  }
+
   if (season.includes("/")) {
     const parts = season.split("/");
     const startYear = Number(parts[0]);

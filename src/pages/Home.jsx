@@ -6,6 +6,9 @@ import SearchBar from "../components/SearchBar";
 import QuestionGrid from "../components/QuestionGrid";
 import AnswerModal from "../components/AnswerModal";
 import Loading from "../components/Loading";
+import Charts from "../components/Charts";
+import Teams from "../components/Teams";
+import Players from "../components/Players";
 
 import {
   overallQuestions,
@@ -47,7 +50,6 @@ import {
 function Home() {
   const [selectedSeason, setSelectedSeason] =
     useState("Overall");
-
   const [search, setSearch] = useState("");
 
   const [selectedQuestion, setSelectedQuestion] =
@@ -204,10 +206,7 @@ function Home() {
         );
 
       case "season-winner":
-        return getWinner(
-          data.matches,
-          selectedSeason
-        );
+      return getWinner(data.matches, selectedSeason);
 
       case "overall-most-titles":
         return getMostTitles(
@@ -232,11 +231,8 @@ function Home() {
       <Navbar />
 
       <main className="dashboard">
-        <section className="hero">
+        <section className="hero" id="home">
           <div className="hero-content">
-            <span className="hero-label">
-              🏏 IPL ANALYTICS
-            </span>
 
             <h1>
               Explore IPL
@@ -295,7 +291,16 @@ function Home() {
           <QuestionGrid
             questions={filteredQuestions}
             onQuestionClick={setSelectedQuestion}
+            selectedSeason={selectedSeason}
           />
+
+          <Charts
+            battingData={data.batting}
+            bowlingData={data.bowling}
+            teamData={data.teams}
+            selectedSeason={selectedSeason}
+          />
+
         </section>
       </main>
 
