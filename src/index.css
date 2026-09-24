@@ -33,7 +33,7 @@ button {
 .navbar {
   background: #0757b8;
   color: white;
-  padding: 18px 0;
+  padding: 8px 0;
   box-shadow: 0 3px 15px rgba(0, 55, 120, 0.18);
   position: sticky;
   top: 0;
@@ -54,11 +54,13 @@ button {
   display: flex;
   align-items: center;
   gap: 28px;
+  margin: auto;
 }
 .navbar-links a {
   color: #ffffff;
   text-decoration: none;
-  font-weight: 600;
+  font-size: 20px;
+  font-weight: 550;
   transition: 0.2s ease;
 }
 
@@ -67,8 +69,8 @@ button {
 }
 
 .navbar-logo {
-  width: 60px;
-  height: 60px;
+  width: 80px;
+  height: 80px;
   object-fit: contain;
   display: block;
 }
@@ -1138,7 +1140,7 @@ button {
    MOBILE
 ========================= */
 
-@media (max-width: 600px) {
+@media (max-width: 700px) {
 
   .navbar-container {
     max-width: 1200px;

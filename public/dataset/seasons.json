@@ -1,31 +1,21 @@
-import { getSeasons } from "../services/api";
-
-function formatSeason(season) {
-  if (season === "2020/21") return "2020";
-
-  if (season.includes("/")) {
-    const parts = season.split("/");
-    const startYear = Number(parts[0]);
-    const endPart = parts[1];
-
-    if (endPart.length === 2) {
-      return String(Number(String(startYear).slice(0, 2) + endPart));
-    }
-
-    return endPart;
-  }
-
-  return season;
-}
-
-export async function loadSeasons() {
-  const seasons = await getSeasons();
-
-  return [
-    { label: "Overall", value: "Overall" },
-    ...seasons.map((season) => ({
-      label: formatSeason(season),
-      value: season,
-    })),
-  ];
-}
+[
+  "2007/08",
+  "2009",
+  "2009/10",
+  "2011",
+  "2012",
+  "2013",
+  "2014",
+  "2015",
+  "2016",
+  "2017",
+  "2018",
+  "2019",
+  "2020/21",
+  "2021",
+  "2022",
+  "2023",
+  "2024",
+  "2025",
+  "2026"
+]
