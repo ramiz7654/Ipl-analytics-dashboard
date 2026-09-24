@@ -158,7 +158,7 @@ function Charts({
           <div className="chart-card-header">
             <div>
               <span className="chart-icon">
-                🏏
+              
               </span>
 
               <h3>
@@ -221,7 +221,7 @@ function Charts({
           <div className="chart-card-header">
             <div>
               <span className="chart-icon">
-                🎯
+                
               </span>
 
               <h3>
@@ -284,7 +284,7 @@ function Charts({
           <div className="chart-card-header">
             <div>
               <span className="chart-icon">
-                🏆
+                
               </span>
 
               <h3>
@@ -346,7 +346,7 @@ function Charts({
           <div className="chart-card-header">
             <div>
               <span className="chart-icon">
-                💥
+                
               </span>
 
               <h3>

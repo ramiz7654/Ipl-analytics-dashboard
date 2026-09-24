@@ -73,7 +73,7 @@ function Players({ battingData, bowlingData, selectedSeason }) {
 
         <div className="leaderboard-card">
           <div className="leaderboard-title">
-            <span>🏏</span>
+            <span></span>
 
             <div>
               <h3>Top Run Scorers</h3>
@@ -113,7 +113,7 @@ function Players({ battingData, bowlingData, selectedSeason }) {
         <div className="leaderboard-card">
 
           <div className="leaderboard-title">
-            <span>🎯</span>
+            <span></span>
 
             <div>
               <h3>Top Wicket Takers</h3>
